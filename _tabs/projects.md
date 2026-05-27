@@ -21,8 +21,7 @@ Here is a curated list of enterprise production systems, modernized architecture
 * **20-Year-Old DB Optimization:** Successfully refactored and optimized complex query structures and schema bottlenecks for a massive database spanning over 20 years of historical data.
 * **Automated CLI Systems:** Designed and implemented heavy-duty background CLI scripts and automated scheduling engines, drastically improving system stability and message handling performance.
 
-[**Read More →**](https://www.dalsaram.com/)
-
+[**Read More →**](https://www.dalsaram.com/)<br>
 [**View Live Site →**](https://www.dalsaram.com/){:target="_blank"}
 
 ---
@@ -36,8 +35,7 @@ Here is a curated list of enterprise production systems, modernized architecture
 * **Serverless Backend & Cloud Storage:** Implemented Supabase for seamless user authentication and real-time data persistence, paired with Cloudflare R2 for scalable, high-performance asset management.
 * **Interactive Financial Tools:** Designed and engineered custom frontend calculator engines supporting complex user queries regarding capital gains, tax mapping, and financial indicators.
 
-[**Read More →**](https://uspick.net)
-
+[**Read More →**](https://uspick.net)<br>
 [**View Live Site →**](https://uspick.net)){:target="_blank"}
 
 ---
