@@ -42,3 +42,11 @@ My career features a strong **14-year tenure in Kyoto and Tokyo, Japan**, where 
 ## Legal Status
 
 * **Authorized to work in the United States.**
+
+---
+
+## Languages
+
+* **Korean:** Native
+* **English:** Professional Working Proficiency
+* **Japanese:** Fluent / Native-level (14 years of professional tech experience in Kyoto & Tokyo)
