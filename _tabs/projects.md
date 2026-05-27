@@ -36,7 +36,7 @@ Here is a curated list of enterprise production systems, modernized architecture
 * **Interactive Financial Tools:** Designed and engineered custom frontend calculator engines supporting complex user queries regarding capital gains, tax mapping, and financial indicators.
 
 [**Read More →**](https://uspick.net)<br>
-[**View Live Site →**](https://uspick.net)){:target="_blank"}
+[**View Live Site →**](https://uspick.net){:target="_blank"}
 
 ---
 
