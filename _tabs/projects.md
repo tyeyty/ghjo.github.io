@@ -26,7 +26,7 @@ Here is a curated list of enterprise production systems, modernized architecture
 
 ---
 
-### 🌐 2. Community Web Platform (`uspick.net`)
+### 🌐 2. Community Web Platform
 * **Location:** Side Project (Solo Full-Stack Developer & Architect)
 * **Core Tech:** Next.js, React, Tailwind CSS, Supabase (PostgreSQL), Cloudflare R2
 
@@ -36,11 +36,11 @@ Here is a curated list of enterprise production systems, modernized architecture
 * **Interactive Financial Tools:** Designed and engineered custom frontend calculator engines supporting complex user queries regarding capital gains, tax mapping, and financial indicators.
 
 [**Read More →**](https://uspick.net)<br>
-[**View Live Site →**](https://uspick.net){:target="_blank"}
+[**View Live Site →**](https://uspick.net/){:target="_blank"}
 
 ---
 
-### 🚀 3. SNS Automation & Branding Platform (BR Labs)
+### 🚀 3. SNS Automation & Branding Platform (BnR Labs)
 * **Location:** Side Project (Co-Founder & Platform Engineer)
 * **Core Tech:** Next.js, React, Tailwind CSS, OpenAI API, Cloudflare R2, Serverless Workflows
 
