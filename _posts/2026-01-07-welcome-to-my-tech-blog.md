@@ -1,6 +1,6 @@
 ---
 title: Building a Modern Engineering Portfolio
-date: 2026-05-26 10:00:00 -0500
+date: 2026-01-07 10:00:00 -0500
 categories: [Engineering, General]
 tags: [nextjs, supabase, tailwindcss, webdev]
 ---
