@@ -15,7 +15,8 @@ This post analyzes why a **Weighted Random Selection** architecture is fundament
 
 * **The Context:** Within a high-traffic real estate category, two out of the top four premium advertisers lodged immediate complaints, claiming, *"Our banners are appearing significantly less than our competitors."*
 * **The Legacy Logic:** The system utilized a rigid "forced balance" mechanism. It continuously counted the exposure numbers of each active banner in the database and explicitly prioritized the banner with the lowest absolute count.
-* **The Cascading Issue:** 1. To pacify the client claims quickly, the operations team manually injected identical ad slots for the complaining advertisers directly into the active database pool.
+* **The Cascading Issue:**
+  1. To pacify the client claims quickly, the operations team manually injected identical ad slots for the complaining advertisers directly into the active database pool.
   2. Because these newly inserted rows started with an exposure count of `0`, the deterministic legacy logic focused *entirely* on these new rows to balance the numbers, causing a massive, unintended "over-exposure bug."
   3. This incident exposed the critical limitations of an architecture that prioritizes statistical rigidity over operational agility.
 
