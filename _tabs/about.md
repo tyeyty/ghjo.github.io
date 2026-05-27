@@ -6,8 +6,6 @@ order: 1
 icon: far fa-user
 ---
 
-## About Me
-
 ### Summary
 A versatile and highly accomplished **Full-Stack Developer & UI/UX Designer** with over **20 years of industry experience** spanning web development, user interface design, and automated SaaS solutions. Backed by a Bachelor’s Degree in Engineering and an Associate's Degree in Visual Design, I uniquely bridge the gap between stunning visual design and robust software architecture. 
 
